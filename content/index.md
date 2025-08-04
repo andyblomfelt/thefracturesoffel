@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: The Awakening of Fel
 ---
+Welcome to the website cataloging the journeys of Ylva-Hjordis, Ewan Reid, Noro, Demiel Whym, and Tiyeme Assisi as they navigate the fractured world of Fel.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
