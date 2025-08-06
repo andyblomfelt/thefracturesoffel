@@ -4,6 +4,7 @@ draft:
 ---
 # 9th of Hostar, 721 A.C.
 ###### Session 09 - August 4th, 2025 (continued)
+## Demiel's Breakthrough
 
 Demiel was the first to arrive at breakfast. Pen scribbles filled the quiet, dewy air, only interrupted by the streaking of rags against glass as Uvi got the bar ready, and the light taps of a drizzle against the large windows overlooking the canal. He was so close to making progress on the encrypted note that fell out of the journal. It was consuming him. After all, he was good at puzzles. He figured out magic, he could figure this out.
 
