@@ -1,9 +1,10 @@
 ---
 title: III. What Lies Beneath a Memory
+description: by Ari Blomfelt
 ---
-#### [[07 - July 27, 2025|Session 07 - July 20, 2025]]
+###### Session 7 - July 20, 2025
 ## The Trace He Left Behind
-Dust and ozone hung in the air, the last traces of the [[The Shard of Mimir|Shard]]’s discharge slowly settling. For a moment, no one moved. [[Halur]]’s eyes were wide, fixed on the scorched patch of earth where [[Ewan Reid|Ewan]] had vanished. Then he blinked, pulled himself together, and called out to [[Noro]].
+Dust and ozone hung in the air, the last traces of the Shard’s discharge slowly settling. For a moment, no one moved. [[Halur]]’s eyes were wide, fixed on the scorched patch of earth where [[Ewan Reid|Ewan]] had vanished. He blinked, pulled himself together, and called out to [[Noro]].
 
 "You and your friends need to plant this [[Stardust]] on the remains of these enforcers. [[The Shard of Mimir|The Shard]] deleted the memory of those around. This is the best way to make sure no one comes sniffing."
 
@@ -17,7 +18,7 @@ After the scene is set and stories aligned, the four convene around the spot whe
 
 [[Hjordis]], however, had more to offer. In a calm voice of recognition, she spoke a single word to [[Ylva]]: "Nave."
 
-The term didn't mean much to [[Ylva]], but [[Tiyeme Assisi|Tiyeme]] recognized it immediately once she shared with the group. His knowledge of old temple maps brought forward a theory: [[The Church of Uriel]]. [[Ylva]] scrambled to a familiar rooftop, quickly locating a spire matching [[Tiyeme Assisi|Tiyeme]]'s description. It was a place to start.
+The term didn't mean much to [[Ylva]], but [[Tiyeme Assisi|Tiyeme]] recognized it immediately once she shared with the group. His knowledge of old temple maps brought forward a theory: [[The Church of Uriel]]. [[Ylva]] scrambled to a familiar rooftop, quickly locating a spire matching [[Tiyeme Assisi|Tiyeme]]'s description. It was a place to start, if nothing else.
 
 [[Demiel Whym|Demiel]] interrupts with the meaning of the other two runes on the ground: "Home" and "Scholars of the Almáttki." An obvious link to the place where scholars gather in [[Port Almasha]].
 
@@ -38,7 +39,7 @@ Ewan slammed into unfamiliar ground, arching his back with a yelp of pain. The b
 
 "What the FUCK just happened??" the figure exclaimed. One hand clutching a dagger on his belt, the other outstretched and encased in fire. He sat on the stone floor as if he'd just landed himself, reacting to Ewan’s sudden arrival. Firelight flickered across his face, revealing white hair and dark skin that Ewan has met once before: Relne, Trusto's son.
 
-"What the fuck do you mean?" Ewan's voice coughed, still recovering from whatever magical events brought him here. The room sharpened into focus as he stood up. 
+"What the fuck do you mean?" Ewan's voice coughed, still recovering from whatever magical events brought him here. The room sharpened into focus as he stood up. "And who the fuck are you again?"
 
 Ahead, a crumbling stairway of ten or so steps led to a circular temple built in the same white marble as much of Port Almasha. Once-great waterfalls now only trickled along the walls, echoing faintly against a towering white pillar driven through the center of the chamber. Looking up, the ceiling vanished into darkness.
 
@@ -70,7 +71,7 @@ Without warning, Ewan suddenly hears the voice of Tiyeme, unprompted. He wasn't 
 
 Ewan replied and confirmed that, according to Relne, they seemed to be beneath the Arcanum, and that there might be a way to reach the rendezvous point Kaela had arranged, if Relne’s knowledge proved accurate.
 
-## Journey to the Northern Docks
+## #todo Journey to the Northern Docks
 - Noro rolls insight and is able to guess that Ewan is trapped in the cave with Relne, noting that he hasn't returned to the gallery in 24 hours.
 - Upon approach to the church of Uriel, Ylva spots someone who seems to be a person of power inside.,
 - Tiyeme goes up to talk to the possibly elven, unknown gender, thing in white and gold.,
@@ -81,9 +82,9 @@ Ewan replied and confirmed that, according to Relne, they seemed to be beneath t
 - Tiyeme recalls stories of the ship, and recognizes it as the one he has been told about being possibly magical.,
 - The group heads down to the brig, as the sun begins to set on the horizon. A storm brews off the coast
 
-#### [[08 - July 27, 2025|Session 08 - July 27, 2025]]
+###### Session 8 - July 27, 2025
 ## Boarding the Line Six
-[[Ylva]], [[Noro]], Tiyeme, and Demiel barely jump onto the [[Line Six]] as it pulls out into the waters surrounding [[06 - Places/Yarra/Almasha/Port Almasha/Port Almasha]], making a break for the caves at the base of the cliffs under [[the Arcanum]]. [[Kaela]] lets the group know not to go anywhere they shouldn't as they make their way, and she looks visibly stressed compared to her usual aloof demeanor.
+[[Ylva]], [[Noro]], Tiyeme, and Demiel barely jump onto the [[Line Six]] as it pulls out into the waters surrounding Port Almasha, making a break for the caves at the base of the cliffs under [[the Arcanum]]. [[Kaela]] lets the group know not to go anywhere they shouldn't as they make their way, and she looks visibly stressed compared to her usual aloof demeanor.
 
 Tiyeme asks to learn more about the name of the ship, and Kaela brings them back to the engine room where she shows off a [[Mirrathine]]-powered engine with six inline pistons. Now with a moment to breathe, [[Kaela]] starts sizing up the group, asking their professions and skills. She eventually reveals that before everything went down, she was considering hiring the crew to help with a couple of runs she needs to make, one up in [[Cendreval]] which she didn't reveal more details for, and pulls out the compass [[Noro]] retrieved for [[Trusto]]. She doesn't have time to do both, and needs to replenish the crew she lost on her most recent job. 
 
@@ -102,3 +103,49 @@ The party splits to disable the network. Ylva fires off a Zephyr Strike and rain
 The constructs suddenly vanish into invisibility. A shimmer takes over each one individually, as they all disappear and start to reposition. Noro quickly locates all six nodes that [[Relne]] mentioned earlier and hurls the pyramid into one, revealing a construct mid-hover. Ylva unleashes a radiant breath attack that wipes out two buttons. Demiel firebolts another. Tiyeme throws on the Red Maw gauntlet and smashes a control unit. As the invisibility collapses, the constructs surge one last time. Demiel takes a massive hit, but Tiyeme keeps him up while Ewan slams his hammer into the core of the construct. [[Noro]], seeing her friends taking a beating, forces her way through arcing lightning, jumping into the air and grabbing one of the drill-like spears, spinning and slamming the replicator into the ground and smashing it into pieces. The last replicate is shattered by Tiyeme’s final bolt, and with the field down and the room quiet, the group catches their breath, having barely survived whatever these constructs were.
 ## Investigating the Temple
 In the aftermath, while Demiel is reading notes on the chalkboard where someone was obviously studying whatever these constructs were, the group reunites and questions Ewan about what actually happened. After learning about the dragon mural, a small group heads back into the large chamber where Ewan appeared to get a look at it, especially Ylva who perked up at the mention of a dragon. Hjordis, surprisingly, speaks up upon seeing the mural, and mentions her husband who she had forgotten.
+
+#### Session 09 - August 4th, 2025
+## The Price of Passage
+The gem affixed to Demiel's head casted a green, unnatural light on the damp rock walls, guiding them on a familiar path back to Kaela's ship. Badly injured, but stable for now, the occasional drop of blood mixing with the damp floor cut the silence of the group.
+
+---
+Relne held his wound, taped up and not actively bleeding thanks to Tiyeme, but still painful nonetheless. The man engrossed in his book cast an ominous green light against the cave walls, leading everyone's way back the way they apparently came. This wasn't his usual route, but arguing didn't seem to get much of anywhere with these people.
+
+He looked to the dragon girl he had seen at the gallery the day before. What did she see on the mural in the lower temple? He shook his head at the thought. It wasn't worth the effort of curiosity. Bigger things were waiting for him now that he wasn't stuck there, like what to do once he saw Mei again.
+
+He found himself staring at the ground when a crack of lightning suddenly blinded him. His head snapped up just in time to see the silhouettes of the five that kept him alive, framed by the mouth of the cave opening into the small cove. They paid no attention to him, but stared confidently into the storm ahead.
+
+He found himself wondering if it was worth his time to get to know Noro. She always seemed to be running from something, after all. Maybe she could help him figure out how to move forward.
+
+He found himself thinking if the Calbraithen could teach him how to wield fire like his mother did.
+
+He found himself asking what he did to deserve being saved by them.
+
+---
+"Grab the rope!" Sorchan yelled from the Line Six, throwing one of the many retrieval ropes into the stormy seas to assist those who had trouble swimming. He nearly fell over as the ship hit the edge of the rock wall it had been tied to; the storm had worsened specifically in their absence. 
+
+A flurry of swimming, flying, and scrambling rope ladders ended with the entire group in the surprisingly pristine main galley of the famous Line Six. 
+
+#todo *Summarize conversation after everyone returns*
+
+"Now, about the debt you all owe me for the trip." Kaela grabbed a chair and flipped it backwards, straddling it with her usual confidence.
+
+"Tryf has done a bit more work on that compass you so kindly acquired for us, Noro, and I think our expedition to [[Cendreval]] will have to wait."
+
+She briefly sighed before continuing, her eyes drifting to the floor in front of her as she lifted up the compass, "I need whatever's on the other side of this if we want any chance of shit not going south by the time we get there."
+
+#todo *Summarize the party's conversation with Kaela*
+
+Ylva closes the door behind her, and faces Kaela alone for the first time. After a long conversation, Ylva re-emerges, and Noro catches a small, curious grin on Kaela's face, barely peeking through the door. She turns and darts to the front of the ship just as the door closes, leaving the conversation a mystery.
+
+---
+The discussions on Kaela's offer were suddenly cut short as Sorchan's voice vibrated through a pipe in the bulkhead.
+
+"We're here. You best be on your way," he announced, the words echoing with a metallic resonance.
+
+It seemed a network of these speaking-tubes was spread throughout the ship; an intercom system that allowed the crew to communicate quickly and without being overheard by those outside the vessel.
+
+A quick "Thank you, Kaela!" punctuated their steps onto the fisher's docks of Old Almasha as the Line Six peeled away, eager to not overstay their welcome. The wood docks felt soft, as the rain began to take hold and cover the city in a haze. Kaela's offer hung in the air around them; a way to escape the city, a way to see more of the world, or maybe a way to get into more trouble.
+
+
+
