@@ -174,5 +174,7 @@ Ylva closes the door behind her, and faces Kaela alone for the first time. After
 
 A quick "Thank you, Kaela!" punctuated their steps onto the fisher's docks of Old Almasha as the Line Six peeled away, eager to not overstay their welcome. The wood beneath their feet felt soft as the rain began to fall, and Kaela's offer hung in a haze around them. A way to escape the city, a way to see more of the world, or maybe a way to get into more trouble.
 
+The group quickly navigated the hazy streets through the storm, returning to The Gallery within the hour. Noro quickly got Ewan their money, and the crew took up a booth at Layla's despite their injuries, as they had much to discuss. Between Kaela's offer, the journal and cipher they discovered in the temple, and how to go about getting a map of the Nyrian sea, the drinks were just a means to figure out how to go forward.
+
 
 
