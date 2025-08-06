@@ -107,9 +107,6 @@ In the aftermath, while Demiel is reading notes on the chalkboard where someone 
 
 #### Session 09 - August 4th, 2025
 ## The Price of Passage
-The gem affixed to Demiel's head casted a green, unnatural light on the damp rock walls, guiding them on a familiar path back to Kaela's ship. Badly injured, but stable for now, the occasional drop of blood mixing with the damp floor cut the silence of the group.
-
----
 Relne held his wound, taped up and not actively bleeding thanks to Tiyeme, but still painful nonetheless. The man engrossed in his book cast an ominous green light against the cave walls, leading everyone's way back the way they apparently came. This wasn't his usual route, but arguing didn't seem to get much of anywhere with these people.
 
 He looked to the dragon girl he had seen at the gallery the day before. What did she see on the mural in the lower temple? He shook his head at the thought. It wasn't worth the effort of curiosity. Bigger things were waiting for him now that he wasn't stuck there, like what to do once he saw Mei again.
@@ -123,15 +120,17 @@ He found himself thinking if the Calbraithen could teach him how to wield fire l
 He found himself asking what he did to deserve being saved by them.
 
 ---
-"Grab the rope!" Sorchan yelled from the Line Six, throwing one of the many retrieval ropes into the stormy seas to assist those who had trouble swimming. He nearly fell over as the ship hit the edge of the rock wall it had been tied to; the storm had worsened specifically in their absence. 
+"Grab the rope!" 
 
-A flurry of swimming, flying, and scrambling rope ladders ended with the entire group in the surprisingly pristine main galley of the famous Line Six, ringing out their clothes and tending to their wounds. 
+Sorchan yelled, his deep voice carrying over the wind as he threw a line toward the cove. The ship lurched, the storm having worsened in their absence, nearly knocking him off balance.
 
-"Well look at that, a successful field trip. Found your friend, managed to not die, good for you." Kaela barged in with grandeur, shoving the door closed against the wind.
+A flurry of swimming, flying, and scrambling rope ladders ended with the entire group, soaked and shivering, in the surprisingly pristine main galley of the famous Line Six, ringing out their clothes and tending to their wounds. 
+
+"Well look at that, a successful field trip." Kaela barged in with grandeur, shoving the door closed against the wind. "Found your friend, managed to not die, good for you."
 
 She hung her hat and jacket against the wall as she continued, exposing a simple black tank top underneath. "Sorry for the trouble Sorchan caused you, Ewan. I've left your money with Trusto, it's in good hands until you're able to return."
 
-"You all have a strange way of doing business" he replied with a pinch of confrontation.
+"You all have a strange way of doing business" he snapped back with a hint of confrontation.
 
 The conversation continued on, recounting the details of the deal and the location of the gold by Noro, and everything that went down in the temple. Interrupting the conversation, Kaela suddenly shook her head as if remembering something:
 
@@ -155,22 +154,25 @@ Noro cuts the silence and changes the topic, turning back to Kaela and thanking 
 
 "Of course, but remember, a favor for a favor." Kaela grabbed a chair and flipped it backwards, straddling it with her usual confidence.
 
-"Tryf has done a bit more work on that compass you so kindly acquired for us, Noro, and I think our expedition to [[Cendreval]] will have to wait."
+"Tryf has done a bit more work on that compass you so kindly acquired for us, Noro, and I think our expedition to Cendreval will have to wait."
 
-She briefly sighed before continuing, her eyes drifting to the floor in front of her as she lifted up the compass, "I need whatever's on the other side of this if we want any chance of shit not going south by the time we get there."
+She briefly sighed before continuing, her eyes drifting to the floor in front of her as she lifted up the compass, "I need whatever's on the other side of this if we want any chance of shit not going south by the time we get there. I'd welcome your presence on the journey, and I can pay what little we have, but the favor I need is back in town."
 
-#todo *Summarize the party's conversation with Kaela*
+"I need a navigational map of the Nyrian Sea to the south. And while I have Halur's little pet project on my ship, docking in town is problematic. I can drop you off at the smuggler's docks in Old Almasha, and pick you up again in 48 hours."
 
+The party quickly agreed, and gathered details from her on other supplies they might need, if she knew where someone might acquire cartography supplies in the city, etc. It seemed the further offer to follow the compass, however, would need to be discussed more between the five of them.
+
+Kaela, after giving them everything they needed to run her errand, suddenly found her eyes uncannily locked with Ylva's.
+
+"Can I talk to you? Privately." Ylva suddenly spoke. Kaela hesitantly agreed, and pointed the others towards the medical cabinet along the wall of the galley if they needed it. Her and Ylva followed each other out through the center corridor leading to the front of the boat, leaving the others to discuss her offer of joining the Line Six temporarily.
+
+---
 Ylva closes the door behind her, and faces Kaela alone for the first time. After a long conversation, Ylva re-emerges, and Noro catches a small, curious grin on Kaela's face, barely peeking through the door. She turns and darts to the front of the ship just as the door closes, leaving the conversation a mystery.
 
 ---
-The discussions on Kaela's offer were suddenly cut short as Sorchan's voice vibrated through a pipe in the bulkhead.
+"We're here. You best be on your way," Sorchan announced, the words echoing with a metallic resonance through a pipe in the bulkhead.
 
-"We're here. You best be on your way," he announced, the words echoing with a metallic resonance.
-
-It seemed a network of these speaking-tubes was spread throughout the ship; an intercom system that allowed the crew to communicate quickly and without being overheard by those outside the vessel.
-
-A quick "Thank you, Kaela!" punctuated their steps onto the fisher's docks of Old Almasha as the Line Six peeled away, eager to not overstay their welcome. The wood docks felt soft, as the rain began to take hold and cover the city in a haze. Kaela's offer hung in the air around them; a way to escape the city, a way to see more of the world, or maybe a way to get into more trouble.
+A quick "Thank you, Kaela!" punctuated their steps onto the fisher's docks of Old Almasha as the Line Six peeled away, eager to not overstay their welcome. The wood beneath their feet felt soft as the rain began to fall, and Kaela's offer hung in a haze around them. A way to escape the city, a way to see more of the world, or maybe a way to get into more trouble.
 
 
 
