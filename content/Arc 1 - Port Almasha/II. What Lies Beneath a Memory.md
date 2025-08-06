@@ -170,6 +170,7 @@ Kaela, after giving them everything they needed to run her errand, suddenly foun
 Ylva closes the door behind her, and faces Kaela alone for the first time. After a long conversation, Ylva re-emerges, and Noro catches a small, curious grin on Kaela's face, barely peeking through the door. She turns and darts to the front of the ship just as the door closes, leaving the conversation a mystery.
 
 ---
+## A Hazy Arrival
 "We're here. You best be on your way," Sorchan announced, the words echoing with a metallic resonance through a pipe in the bulkhead.
 
 A quick "Thank you, Kaela!" punctuated their steps onto the fisher's docks of Old Almasha as the Line Six peeled away, eager to not overstay their welcome. The wood beneath their feet felt soft as the rain began to fall, and Kaela's offer hung in a haze around them. A way to escape the city, a way to see more of the world, or maybe a way to get into more trouble.
