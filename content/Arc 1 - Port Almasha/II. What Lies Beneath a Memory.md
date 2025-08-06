@@ -1,5 +1,5 @@
 ---
-title: III. What Lies Beneath a Memory
+title: 
 description: by Ari Blomfelt
 draft:
 ---
@@ -125,7 +125,15 @@ He found himself asking what he did to deserve being saved by them.
 ---
 "Grab the rope!" Sorchan yelled from the Line Six, throwing one of the many retrieval ropes into the stormy seas to assist those who had trouble swimming. He nearly fell over as the ship hit the edge of the rock wall it had been tied to; the storm had worsened specifically in their absence. 
 
-A flurry of swimming, flying, and scrambling rope ladders ended with the entire group in the surprisingly pristine main galley of the famous Line Six. 
+A flurry of swimming, flying, and scrambling rope ladders ended with the entire group in the surprisingly pristine main galley of the famous Line Six, ringing out their clothes and tending to their wounds. 
+
+"Well look at that, a successful field trip. Found your friend, managed to not die, good for you." Kaela barged in with grandeur, shoving the door closed against the wind.
+
+She hung her hat and jacket against the wall as she continued, exposing a simple black tank top underneath. "Sorry for the trouble Sorchan caused you, Ewan. I've left your money with Trusto, it's in good hands until you're able to return."
+
+"You all have a strange way of doing business" he replied with a pinch of confrontation.
+
+
 
 #todo *Summarize conversation after everyone returns*
 
