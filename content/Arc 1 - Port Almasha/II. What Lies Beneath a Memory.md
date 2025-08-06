@@ -133,11 +133,27 @@ She hung her hat and jacket against the wall as she continued, exposing a simple
 
 "You all have a strange way of doing business" he replied with a pinch of confrontation.
 
+The conversation continued on, recounting the details of the deal and the location of the gold by Noro, and everything that went down in the temple. Interrupting the conversation, Kaela suddenly shook her head as if remembering something:
 
+"Relne, how the fuck did you get involved here?"
 
-#todo *Summarize conversation after everyone returns*
+"Yeah, who are you?" Ylva chimed in. Even though she had met Relne earlier the day before briefly, it was obvious he didn't make a strong impression on her. After a reminder from Noro and some pushback from Relne, she continued
 
-"Now, about the debt you all owe me for the trip." Kaela grabbed a chair and flipped it backwards, straddling it with her usual confidence.
+"Well, your life must be SO hard, going back to a beautiful home with a loving family aro—" she was suddenly interrupted by an elbow from Ewan to her side body "Give the kid a break, his life is hard enough."
+
+"Well, Kaela's question still stands," Ylva continued, "how did you get down there?"
+
+Relne desperately asked to keep it from his father, but recounted briefly how he uses the temple to practice magic in peace, somewhere the Arcanum certainly isn't paying much attention to. Off to the side, Noro fills Ylva in about Layla and what Relne has been going through the last few years, her patience and care for the found family at Trusto's on full display.
+
+Ylva walks up to Relne after he finishes talking, and puts a single hand on his shoulder.
+
+"Sorry about your mom, kid"
+
+"Thanks, I... I appreciate it" he meekly replies.
+
+Noro cuts the silence and changes the topic, turning back to Kaela and thanking her for waiting through the storm.
+
+"Of course, but remember, a favor for a favor." Kaela grabbed a chair and flipped it backwards, straddling it with her usual confidence.
 
 "Tryf has done a bit more work on that compass you so kindly acquired for us, Noro, and I think our expedition to [[Cendreval]] will have to wait."
 
