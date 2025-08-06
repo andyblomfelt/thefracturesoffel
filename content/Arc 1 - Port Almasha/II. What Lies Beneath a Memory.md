@@ -105,8 +105,8 @@ The constructs suddenly vanish into invisibility. A shimmer takes over each one 
 ## Investigating the Temple
 In the aftermath, while Demiel is reading notes on the chalkboard where someone was obviously studying whatever these constructs were, the group reunites and questions Ewan about what actually happened. After learning about the dragon mural, a small group heads back into the large chamber where Ewan appeared to get a look at it, especially Ylva who perked up at the mention of a dragon. Hjordis, surprisingly, speaks up upon seeing the mural, and mentions her husband who she had forgotten.
 
-#### Session 09 - August 4th, 2025
-## The Price of Passage
+###### Session 09 - August 4th, 2025
+## The Storm Intensifies
 Relne held his wound, taped up and not actively bleeding thanks to Tiyeme, but still painful nonetheless. The man engrossed in his book cast an ominous green light against the cave walls, leading everyone's way back the way they apparently came. This wasn't his usual route, but arguing didn't seem to get much of anywhere with these people.
 
 He looked to the dragon girl he had seen at the gallery the day before. What did she see on the mural in the lower temple? He shook his head at the thought. It wasn't worth the effort of curiosity. Bigger things were waiting for him now that he wasn't stuck there, like what to do once he saw Mei again.
@@ -120,6 +120,7 @@ He found himself thinking if the Calbraithen could teach him how to wield fire l
 He found himself asking what he did to deserve being saved by them.
 
 ---
+## The Price of Passage
 "Grab the rope!" 
 
 Sorchan yelled, his deep voice carrying over the wind as he threw a line toward the cove. The ship lurched, the storm having worsened in their absence, nearly knocking him off balance.
@@ -167,7 +168,7 @@ Kaela, after giving them everything they needed to run her errand, suddenly foun
 "Can I talk to you? Privately." Ylva suddenly spoke. Kaela hesitantly agreed, and pointed the others towards the medical cabinet along the wall of the galley if they needed it. Her and Ylva followed each other out through the center corridor leading to the front of the boat, leaving the others to discuss her offer of joining the Line Six temporarily.
 
 ---
-Ylva closes the door behind her, and faces Kaela alone for the first time. After a long conversation, Ylva re-emerges, and Noro catches a small, curious grin on Kaela's face, barely peeking through the door. She turns and darts to the front of the ship just as the door closes, leaving the conversation a mystery.
+Ylva closes the door behind her, and faced Kaela alone for the first time. After a long conversation, Ylva re-emerged, and Noro caught a small, curious grin on Kaela's face, barely peeking through the door. She turned and darted to the front of the ship just as the door closes, leaving the conversation a mystery.
 
 ---
 ## A Hazy Arrival
