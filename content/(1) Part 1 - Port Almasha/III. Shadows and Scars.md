@@ -210,14 +210,8 @@ He frantically read through it while Ewan was distracted.
 
 Tiyeme, his face pale, turned and offered a panicked, unconvincing smile. "Oh, nothing at all, the map is ready! Let's join the others." He started to walk away.
 
-"You're hiding something," Ewan said, his voice flat and unyielding. The words hung in the air. The rain outside seemed to stop completely.
+"You're hiding something," Ewan said, his voice flat and unyielding. The words seemed to stop time, waiting for someone to admit defeat first.
 
-"Oh nothing at all, the map is ready! Let's join the others." He started walking off.
+Tiyeme slowly turned around, unfolding the note to hide the parts he knew would hurt Ewan the most. The words "Paladins of Calbraithe" reflected in his eyes like fire. His hand shot out to grab the note.
 
-"You're hiding something" Ewan said, unmoving. Tiyeme stopped in his tracks. The two looked at each other for a moment, unsure of how to proceed.
-
-He slowly turned around, unfolding the note to hide the parts he knew would hurt Ewan the most. Ewan's eyes reflected something unrecognizable to Tiyeme. It was as if his eyes were on fire.
-
-His hand shot out to grab the note, not in aggression, but in a desperate need for truth. The name of his brother started back at him, tauntingly.
-
-Ewan’s face hardened, and left without a word.
+Duncan's name echoed through the silence. Ewan’s face hardened, and left without a word.
