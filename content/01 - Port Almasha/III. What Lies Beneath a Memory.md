@@ -1,8 +1,3 @@
----
-title: II. What Lies Beneath a Memory
-description: by Ari Blomfelt
-draft:
----
 ###### Session 7 - July 20, 2025
 ## The Trace He Left Behind
 Dust and ozone hung in the air, the last traces of the Shard’s discharge slowly settling. For a moment, no one moved. [[Halur]]’s eyes were wide, fixed on the scorched patch of earth where [[Ewan Reid|Ewan]] had vanished. He blinked, pulled himself together, and called out to [[Noro]].

@@ -1,10 +1,7 @@
----
-title: III. Shadows and Scars
-draft:
----
-# 9th of Hostar, 721 A.C.
 ###### Session 09 - August 4th, 2025 (continued)
 ## Demiel's Breakthrough
+
+*(9th of Hostar, 721 A.C.)*
 
 Demiel was the first to arrive at breakfast. Pen scribbles filled the quiet, dewy air, only interrupted by the streaking of rags against glass as Uvi got the bar ready, and the light taps of a drizzle against the large windows overlooking the canal. He was so close to making progress on the encrypted note that fell out of the journal. It was consuming him. After all, he was good at puzzles. He figured out magic, he could figure this out.
 
@@ -173,7 +170,7 @@ She placed her elbows on the table and leaned in.
 #todo The quick stop at the Serpent and the Bloom
 
 ---
-## The Marrow Gleam
+## The Contingency
 
 It took the better part of 30 minutes for Tiyeme and Ewan to traverse the entirety of the Az'mari Court, the government complex of Port Almasha. They walked along the side of courtyards that framed the facades of shorter buildings, but still grand with large glass domes and arched windows. Crowds of people in brown suits and other robes intersected their path, likely leaving their workday at the various Commissions of Almasha.
 
@@ -215,3 +212,37 @@ Tiyeme, his face pale, turned and offered a panicked, unconvincing smile. "Oh, n
 Tiyeme slowly turned around, unfolding the note to hide the parts he knew would hurt Ewan the most. The words "Paladins of Calbraithe" reflected in his eyes like fire. His hand shot out to grab the note.
 
 Duncan's name echoed through the silence. Ewan’s face hardened, and left without a word.
+
+###### Session 11 - August 17th, 2025
+
+Tiyeme collected himself with a sigh as the door to the Trade Commission's library slammed. He needed Ewan's strength for the coming journey. 
+
+#todo The extended argument between Tiyeme and Ewan in the alleyway outside the Az'mari Court
+
+---
+#todo The quick bar conversation had between everyone. Tiyeme entering the bar, and deciding to go find Ewan before they leave on the boat
+
+---
+## The Marrow Gleam
+#todo Investigating the Marrow Gleam
+
+---
+#todo The beginning of combat
+
+###### Session 12 - August 24th, 2025
+
+#todo The rest of combat, and Demiel's murder of Mayos
+
+---
+## Wordless Goodbye
+#todo Demiel leaving in the morning.
+
+#todo Noro talking to Trusto, crew shopping and getting food, etc.
+
+---
+## Lance Stormhold
+#todo Arriving on the Line Six, meeting Lance, Kaela showing off the navigation system
+
+---
+## Leaving Behind
+#todo Fading away of Port Almasha
