@@ -227,15 +227,38 @@ Tiyeme collected himself with a sigh as the door to the Trade Commission's libra
 #todo Investigating the Marrow Gleam
 
 ---
-#todo The beginning of combat
+The trapdoor burst open with a BANG, pieces of wood and metal clanging against the bar of the familiar tavern below. 
+
+#todo Beginning of combat in the Marrow Gleam tavern
 
 ###### Session 12 - August 24th, 2025
 
 #todo The rest of combat, and Demiel's murder of Mayos
 
 ---
-## Wordless Goodbye
-#todo Demiel leaving in the morning.
+## A Wordless Goodbye
+
+*(10th of Hostar, 721 A.C.)*
+
+Ewan woke up before the others, the creak of the door of his new, private room echoing through the halls. It felt strange to not be going back home today, but the weight of his discoveries the day before hung like a storm over his head.
+
+He stopped for a moment. Demiel's door was wide open.
+
+The sheets were folded nicely, and nothing was left. He obviously returned at some point last night. Out of curiosity, and maybe a little sympathy for the events of the night before, Ewan stepped in to find a single note sitting next to a lit lantern:
+
+*Hello everyone,* 
+
+*While it has been a pleasure traveling and working with you all (at times), I regret to inform you that I will be moving on. I fear this business you all have gotten up to is simply a bit much for me, not to mention beyond my capabilities and expertise. I would prefer if you do not seek me out too soon, as I need a bit of space. For the time being, I plan to head to the Arcanum in search of employment, so if you should need me in the future, you will hopefully find me there – though I will be quite busy with my studies assuming all goes well. I wish you all success in your endeavors and in your travels to Nen’darei.* 
+
+*Best regards,* 
+*Dr. Demiel Wh–
+
+The note cut off halfway through his name, a splattering of ink suggesting he left in a hurry. Ewan sighed, and looked up from the note, where he noticed one of the drapes by the window wave slightly, unprompted. The door shifted slightly, as if someone had walked out. 
+
+He gave a slight smile. *Bastard never could have a straightforward conversation*, he thought to himself.
+
+---
+
 
 #todo Noro talking to Trusto, crew shopping and getting food, etc.
 
