@@ -408,9 +408,13 @@ The low wooden railing surrounding the balcony jittered slightly as she jumped u
 Her blue eyes reflected the tapestry of colors from ceiling tiles lit from underneath, a vibrant display of Almashan culture that she had called home the last few years. The Tower of the Arcanum starkly stuck out from the rest city—a jet back monolith against the subtly moonlit sky. It gave off no light, but was ever present even in the darkness, reminding her of the unanswered questions back in the city:
 
 > What were Halur, Ziri, and Mateo up to at the Arcanum? 
+> 
 > Who, or what, took Ewan after Halur's device was activated?
+> 
 > Who were the "Almáttki?"
+> 
 > What did Ylva (or maybe Hjordis) notice in that mural below the Arcanum?
+> 
 > What was Ewan looking for in that abandoned ship?
 
 She closed her eyes and briefly shook her head, lost so deep in her thoughts that she barely noticed the wind drying her eyes out. When she opened them again, the colorful glow of Port Almasha had blurred into a single, soft light outlining the coastline. It slowly shrank smaller and smaller, until the City that Silenced the Weave disappeared below the horizon.
