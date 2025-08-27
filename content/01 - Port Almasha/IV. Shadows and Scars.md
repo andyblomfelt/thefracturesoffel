@@ -43,9 +43,7 @@ The group stopped in their tracks.
 
 The group immediately recognized the church they discovered the day before. Uriel, Tiyeme explained, was framed as the God of Judgements and Justice. Her word was always the final say in the world. Matters of judgement were attributed to her. What her name is doing in this note, however, was unclear still.
 
-"I will be honest, I don't know what to make of that." Noro replied after thinking for a while.
-
-#todo *Anything else important in this conversation theorizing about the journal*
+"I will be honest, I don't know what to make of that." Noro replied after thinking for a while. "I do wonder, however, if Halur knows anything about this. He was mentioned in that journal you went through earlier. Maybe he knows something we do not."
 
 ---
 ###### Session 10 - August 10th, 2025
@@ -170,7 +168,7 @@ She placed her elbows on the table and leaned in.
 #todo The quick stop at the Serpent and the Bloom
 
 ---
-## The Contingency
+## Contingencies
 
 It took the better part of 30 minutes for Tiyeme and Ewan to traverse the entirety of the Az'mari Court, the government complex of Port Almasha. They walked along the side of courtyards that framed the facades of shorter buildings, but still grand with large glass domes and arched windows. Crowds of people in brown suits and other robes intersected their path, likely leaving their workday at the various Commissions of Almasha.
 
@@ -236,7 +234,7 @@ The trapdoor burst open with a BANG, pieces of wood and metal clanging against t
 #todo The rest of combat, and Demiel's murder of Mayos
 
 ---
-## A Wordless Goodbye
+## Awkward Goodbyes
 
 *(10th of Hostar, 721 A.C.)*
 
@@ -253,19 +251,170 @@ The sheets were folded nicely, and nothing was left. He obviously returned at so
 *Best regards,* 
 *Dr. Demiel Wh–
 
-The note cut off halfway through his name, a splattering of ink suggesting he left in a hurry. Ewan sighed, and looked up from the note, where he noticed one of the drapes by the window wave slightly, unprompted. The door shifted slightly, as if someone had walked out. 
+The note cut off halfway through his name, a splattering of ink suggesting he left in a hurry. Ewan sighed, looked up from the note, and noticed one of the drapes by the window wave slightly, unprompted. He turned to investigate, and heard the slight creak of the door, and turned to find it slightly more open than when he walked in.
 
-He gave a slight smile. *Bastard never could have a straightforward conversation*, he thought to himself.
-
----
-
-
-#todo Noro talking to Trusto, crew shopping and getting food, etc.
+A slight smile caught the corners of Ewan's mouth. *Bastard never could have a straightforward conversation*, he thought to himself.
 
 ---
-## Lance Stormhold
-#todo Arriving on the Line Six, meeting Lance, Kaela showing off the navigation system
+
+
+#todo The entire group talking about Demiel leaving
+#todo Noro talking to Trusto
+#todo Last preparations and boarding the Line Six
 
 ---
-## Leaving Behind
-#todo Fading away of Port Almasha
+## The New Crew
+"Welcome back everyone!" Kaela coyly yelled from the bow, "I'll meet you in the galley, make yourselves at home."
+
+"Tryf! Get us the fuck out of here please." She yelled up to the control room, where a figure gave a thumbs up through the window. The Line Six flipped around from the old stone docks of Port Almasha, catching the last bits of sunlight over the western side of the island.
+
+The galley was warm and inviting, familiar from the last time everyone was here. Trinkets and other items from around the world dotted workbenches, and the single stone bar took up a good chunk of the room. Noro immediately went to put rations away, while the others sat down.
+
+"What do you think little Demiel will do now?" Noro asked as she reached for the upper cabinets.
+
+Ylva piped up as she pulled out a chair, "Eh, I'm sure he'll make himself useful. He was missing his husband, I don't blame him for wanting to stick around"
+
+"Yes," Tiyeme confidently spoke, still standing, "although his demonstration last night seemed a bit excessive."
+
+Kaela walked in from the center corridor, shedding her jacket from the light drizzle outside. Before she had a chance to speak, Tiyeme gestured to the map he had spread on the table.
+
+"Our final route, as requested," his words precise and formal. 
+
+At the same time, Ylva stepped forward with the bag she purchased from The Serpent and the Bloom. "And your coffee. He was quite the character, I see why you like it."
+
+Kaela excitedly grabbed the bag, bringing it up to her nose and taking a long sniff. "Oh my god, you are a Saint! Yeah, Hanuth is certainly a strange one, but you won't find anything better in Yarra."
+
+"Well," she continued, "I'm thankful you joined me. As promised—" she reached into her bag and pulled out some burlap sacks of coin, "here's 25 gold. I can get you the rest when we stop in Istali."
+
+"I thought we were headed to Nen'darei." Ewan spoke bluntly, with purpose.
+
+"I mean, we are, but I could only procure so much fuel on short notice. Nargess was a bit of a mess, but I managed to get enough to get us to Istali, a stopover town at the edge of the Pass. I know a guy there that we can get the rest of what we'll need for crossing the Windfront Bay."
+
+She pointed to it's location on the map. "That will most certainly be the difficult part of our journey. We'll need to be prepared."
+
+The five of them continued to discuss the logistics of the journey, including where the group would be staying down in the lower deck, and where to find basic necessities on the ship. The room slowly darkened with the setting sun.
+
+"Also, I'm sure you'll love this, Ewan," she elbowed him "but Sorchan is no longer with us. His methods of keeping shit to himself were... poor to say the least. Sucks that the shipment you sold us was his dealing, and now I have to figure out how to get it where it needs to go in Cendreval on my own."
+
+She turned her chair to face Ewan fully. "You wouldn't happen to know the final buyer, would you?"
+
+"No." He replied simply. "Not my job to understand the entire chain. You paid me already, so what you do with it from here is up to you."
+
+"What was in there, anyway?" Ylva piped up. The entire room went silent for just a moment, no one quite sure who had the responsibility to speak up.
+
+"Weapons..." he replied hesitantly.
+
+Kaela leaned in with a coy smile. "Well, it's mine to yap about now, right?" She winked at Ewan, who sat back and folded his arms.
+
+"It's a shipment bound for a rogue cell of the Scars of Calbraithe, stationed in Cendreval. Usually something like this would be too... corporate for my taste. But, I didn't have a choice."
+
+Ylva raised an eyebrow, probing for more.
+
+"However," she dodged the glare, "it's obviously caused more problems than it's solved."
+
+"You could say that." Ewan laughed back.
+
+#redo Conversation continued for a bit, recounting the journey so far and how the map was obtained, before Kaela piped back up.
+
+#redo "Oh shit, totally forgot to mention. With Sorchan's absence, I did need another hand for the journey." She walked over to the tight spiral staircase that led to the upper deck. "Lance! Care to introduce yourself?"
+
+From the spiral staircase leading up to the flybridge descended a a tall, well-built man with long blonde curly hair, holding a nicely crafted lute in one of his hands. His red jacket fluttered against the railing elegantly. 
+
+"Hey everyone! Lance Stormhold." he extended his hand out to Tiyeme, who was sitting the closest to him. Brief introductions were made around the room, his personality a jarring beam of light against the dimly lit room.
+
+"Ah, were you the one playing at Layla's last night?" Tiyeme piped up, shaking his hand confidently.
+
+Lance’s smile widened. "That's me. You all seemed like a fun bunch, and when Kaela offered me a job, I jumped at the chance. It's good to be on the road again."
+
+"You noticed us?" Ylva perked up, since she was trying to keep a lower profile in a city that seemed all too curious at her appearance.
+
+"You're a lively group, you know" He replied with a wink.
+
+The four of them looked at each other with an inquisitive look. Were they really a group? They had only met each other just a few days before on the train from Valeward. Ewan and Tiyeme tapped their glasses to each other, while Noro and Ylva's eye contact lingered for just a moment.
+
+"Aye, that we are." Noro said with a smile.
+
+The group continued to ask Lance about his history and how he ended up with this job. Happily, he engaged, telling stories of his time as a performer around Almasha, and how Kaela asked him to be a deck hand.
+
+"I'm here to do whatever everyone needs! Just let me know boss, I'll keep scrubbing the deck if that's what you want."
+
+"I... actually haven't even asked you to do anything yet." She looked taken aback at his eagerness. "Did you start washing the floor?"
+
+Ylva burst out into laughter. Other quickly joined in, overtaking the room with an uncanny sense of relief.
+
+"Well, no use sitting around just yet." Kaela stood up from the table, wrapping her jacket back around her body. "Come with me up top. I'll show you our little navigational secret."
+
+---
+## Secret of the Line Six
+
+ Single file, the group ascended the tight spiral staircase to find a carpeted room with a curved ceiling. An angled set of windows overlooked the bow of the ship to the front, where a large firbolg man was sitting at the well-used control panel. To the right, a single door led to a balcony at the stern.
+
+The most stark item here, however, was the navigation apparatus in the center of the room. 
+Shimmering brightly despite the low light was a small inset pool of red sand, no more than five feet in diameter. with a three quarters arched piece of metal extending from an edge. This circular structure, almost resembling a portal, was mounted to the ceiling by metals of a similar design, with ornate, arcane designs carved into it. A single string hung from the top of this archway, whipping back and forth with the rocking of the ship.
+
+The firbolg was briefly introduced as Tryf by Kaela, who only turned around briefly from his bench and offered a warm hand wave before turning back to the task at hand, navigating the dark waters of the Azure Pass.
+
+"So, who wants to try it?" Kaela spoke facing away from the group, walking over to a workbench along the wall while doing something to the compass.
+
+The five looked at each other confused.
+
+"Uh, I guess me?" Ylva stepped forward sheepishly.
+
+*CRACK*. The sound of snapping metal shook the room as she separated the compass from the crystal it contained inside. She held it up to the light to look through it briefly, the rune Ylva had found earlier on full display now.
+
+"Perfect, do exactly as I do."
+
+She walked over and tied the crystal to the string suspended over the basin. Once finished, she dipped three fingers into the sand, the bright red shimmering substance coating her fingers. Without a word, she glanced over to Ylva, who was stuck processing what the hell was going on.
+
+Eventually, she followed suit, dipping her hands in the sand. She felt as if her hands were touching a light static electricity buildup, but nothing particularly special.
+
+"Now flick it."
+
+Ylva came to with a small shake of her head, Kaela's command cutting through her curiosity. She looked at her with intrigue, as if searching for more context, but Kaela offered none and simply gestured to the suspended crystal. 
+
+She flicked it.
+
+Suddenly, it was as if she had struck a series of tuning forks. Harmonics stacked on top of each other, filling the room with an otherworldly, arcane "chord". It wasn't piercing, but warm, in a strange way.
+
+Kaela turned to Tryf. "Give her a little port, Tryf, maybe ten degrees." Tryf pulled a lever, and the ship shifted with a groan.
+
+"Now," she turned back to Ylva, "do it again. Same thing."
+
+With confidence this time, Ylva struck the crystal. This time, the chord was purer—a clear, bell-like tone that resonated deeper in their chests.
+
+Kaela grinned. "This, my friends, is how the _Line Six_ is so fast. It's not the engine. Shove Mirrathine or any other magical bullshit into an engine and watch how much better it gets."
+
+"We follow leylines. They've existed far before the cataclysm, and they're far more accurate than some dwarven family's shoddy craftsmanship." 
+
+Ylva's eyes narrowed vertically, as Hjordis peered at this technology. She seemed entranced by it, and offered no response to Kaela.
+
+"So where are we headed first?" Ewan asked.
+
+"This journey will take us to Nen'darei Point," she continued, "and we'll need to stop in Istali for fuel."
+
+Tiyeme, intrigued by the magical display, reached for his manuscript. "Will there be any more demonstrations?" he asked, not looking up.
+
+Kaela chuckled. "Plenty."
+
+---
+## Last Light
+
+The temporary crew of seven aboard the Line Six slowly broke off to settle in for the journey ahead. Ewan tapped Ylva on the shoulder, breaking her out of her trance suddenly with a shiver before retreating to the main deck to check out the mechanics in the engine. One by one, the group dispersed, some staying upstairs to take in the navigation and help Tryf where they could.
+
+Noro silently stepped towards the door at the back of the flydeck, her light steps barely touching the carpet. She opened the door, and was immediately hit with the chilly air of the open water. The wind forced the door shut as she made her way outside.
+
+The low wooden railing surrounding the balcony jittered slightly as she jumped up onto it, crouching and holding her knees to keep warm. She silently watched as Port Almasha, her home for the last few years, held on for just a moment longer in her line of sight. 
+
+Her blue eyes reflected the tapestry of colors from ceiling tiles lit from underneath, a vibrant display of Almashan culture that she had called home the last few years. The Tower of the Arcanum starkly stuck out from the rest city—a jet back monolith against the subtly moonlit sky. It gave off no light, but was ever present even in the darkness, reminding her of the unanswered questions back in the city:
+
+> What were Halur, Ziri, and Mateo up to at the Arcanum? 
+> Who, or what, took Ewan after Halur's device was activated?
+> Who were the "Almáttki?"
+> What did Ylva (or maybe Hjordis) notice in that mural below the Arcanum?
+> What was Ewan looking for in that abandoned ship?
+
+She closed her eyes and briefly shook her head, lost so deep in her thoughts that she barely noticed the wind drying her eyes out. When she opened them again, the colorful glow of Port Almasha had blurred into a single, soft light outlining the coastline. It slowly shrank smaller and smaller, until the City that Silenced the Weave disappeared below the horizon.
+
+Noro gave a sharp sigh. She moved from her crouch and sat on the wooden rail, her legs dangling in the chilly air. The rhythmic churn of the engine mixed with the arcane hum of the Line Six, only interrupted by the sound of lapping waves against the hull of the ship. 
+
+Out here, the darkness was pervasive. The only indication of where they were came from the faint, blue glow of Mirrathine against the water. The occasional bundle of village lights to the port side of the ship guided the Line Six along the Azure Pass, towards whatever was waiting for them on the other side.
