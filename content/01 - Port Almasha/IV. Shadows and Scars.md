@@ -76,15 +76,13 @@ Ewan, reading a book and listening in, sneered to himself. This man lied as easi
 
 Noro, Demiel, and Ylva continued onwards to the front desk, inquiring about maps. A young woman introducing herself as Yali offered what help she could.
 
-"Well, we don't sell maps directly, that's more the business of the trade commission." She brushed a hand through her hair, sizing up the group and Noro's smooth talking. 
-
-"However, we might have a service that could be beneficial to you. Come with me."
+"Well, we don't sell maps directly, that's more the business of the trade commission." She brushed a hand through her hair, sizing up the group and Noro's smooth talking. "However, we might have a service that could be beneficial to you. Come with me."
 
 The three are led to a small "reading room" in the back. No windows. Lit only by a single lamp in the corner nestled next to a potted plant. Electric lights weren't unheard of in Almasha—The Arcanum did allow for approved magical batteries for powering simple devices like this. The price, however, was steep, and bringing their eye to your work was a risk only some were willing to take.
 
 "You certainly know the right things to ask, cat." She praised Noro. "We at the Vidya do offer a service of forging manifest documents in order to get into the trade commission's records room. It's an easy task, their operation is built more on intimidation than actual process."
 
-"Anun, could you come help our new friends?"
+"Anun, could you come help our new friends?" She turned and yelled through an open doorway at the back of the room.
 
 A deal was struck to create a forged manifest. 25 gold later, and a manifest of unlisted goods headed to the Nyrian Sea would be ready within the hour. Noro thanked them in her usual smooth demeanor, and returned to see Ewan speaking with Kaveh at one of the tables.
 
@@ -257,7 +255,6 @@ A slight smile caught the corners of Ewan's mouth. *Bastard never could have a s
 
 ---
 
-
 #todo The entire group talking about Demiel leaving
 #todo Noro talking to Trusto
 #todo Last preparations and boarding the Line Six
@@ -384,7 +381,7 @@ With confidence this time, Ylva struck the crystal. This time, the chord was pur
 
 Kaela grinned. "This, my friends, is how the _Line Six_ is so fast. It's not the engine. Shove Mirrathine or any other magical bullshit into an engine and watch how much better it gets."
 
-"We follow leylines. They've existed far before the cataclysm, and they're far more accurate than some dwarven family's shoddy craftsmanship." 
+"We follow leylines. They've existed far before the cataclysm, and they're far more accurate than some dwarven family's shoddy craftsmanship," she held up the remains of the compass.
 
 Ylva's eyes narrowed vertically, as Hjordis peered at this technology. She seemed entranced by it, and offered no response to Kaela.
 
@@ -399,22 +396,18 @@ Kaela chuckled. "Plenty."
 ---
 ## Last Light
 
-The temporary crew of seven aboard the Line Six slowly broke off to settle in for the journey ahead. Ewan tapped Ylva on the shoulder, breaking her out of her trance suddenly with a shiver before retreating to the main deck to check out the mechanics in the engine. One by one, the group dispersed, some staying upstairs to take in the navigation and help Tryf where they could.
+The temporary crew of seven aboard the Line Six slowly broke off to settle in for the journey. Ewan tapped Ylva on the shoulder, suddenly breaking her out of her trance with a shiver before retreating to the main deck to check out the mechanics in the engine. One by one, the group dispersed, some staying upstairs to take in the navigation and help Tryf where they could.
 
 Noro silently stepped towards the door at the back of the flydeck, her light steps barely touching the carpet. She opened the door, and was immediately hit with the chilly air of the open water. The wind forced the door shut as she made her way outside.
 
 The low wooden railing surrounding the balcony jittered slightly as she jumped up onto it, crouching and holding her knees to keep warm. She silently watched as Port Almasha, her home for the last few years, held on for just a moment longer in her line of sight. 
 
-Her blue eyes reflected the tapestry of colors from ceiling tiles lit from underneath, a vibrant display of Almashan culture that she had called home the last few years. The Tower of the Arcanum starkly stuck out from the rest city—a jet back monolith against the subtly moonlit sky. It gave off no light, but was ever present even in the darkness, reminding her of the unanswered questions back in the city:
+Her blue eyes reflected the tapestry of colors from ceiling tiles lit from underneath, a vibrant display of Almashan culture that she had called home the last few years. The Tower of the Arcanum starkly stuck out from the rest city—a jet black monolith against the subtly moonlit sky. It gave off no light, but was ever present even in the darkness, reminding her of the unanswered questions back in the city:
 
 > What were Halur, Ziri, and Mateo up to at the Arcanum? 
-> 
 > Who, or what, took Ewan after Halur's device was activated?
-> 
 > Who were the "Almáttki?"
-> 
 > What did Ylva (or maybe Hjordis) notice in that mural below the Arcanum?
-> 
 > What was Ewan looking for in that abandoned ship?
 
 She closed her eyes and briefly shook her head, lost so deep in her thoughts that she barely noticed the wind drying her eyes out. When she opened them again, the colorful glow of Port Almasha had blurred into a single, soft light outlining the coastline. It slowly shrank smaller and smaller, until the City that Silenced the Weave disappeared below the horizon.

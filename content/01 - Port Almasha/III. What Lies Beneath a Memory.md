@@ -109,7 +109,7 @@ Heavy green tarps drooped over large shapes at both the front and rear. Just vis
 
 ---
 ###### Session 09 - August 4th, 2025
-## The Storm Intensifies
+## Returning
 Relne held his wound, taped up and not actively bleeding thanks to Tiyeme, but still painful nonetheless. The man engrossed in his book cast an ominous green light against the cave walls, leading everyone's way back the way they apparently came. The book he was holding would occasionally block the light and leave them in the dark, to which Noro would tap him on the shoulder and remind him of his duty.
 
 This wasn't his usual route, but arguing didn't seem to get much of anywhere with these people.
@@ -172,8 +172,9 @@ Kaela, after giving them everything they needed to run her errand, suddenly foun
 
 "Can I talk to you? Privately." Ylva suddenly spoke. Kaela hesitantly agreed, and pointed the others towards the medical cabinet along the wall of the galley if they needed it. Her and Ylva followed each other out through the center corridor that led to the front of the boat, leaving the others to discuss her offer of joining the Line Six temporarily.
 
----
-Ylva closes the door behind her, and faced Kaela alone for the first time. After a long conversation, Ylva re-emerged, and Noro caught a small, curious grin on Kaela's face, barely peeking through the door. She turned and darted to the front of the ship just as the door closed behind her.
+Ylva closes the door behind her, and faced Kaela alone for the first time...
+
+After a long conversation, she re-emerged from the doorway, and Noro caught a small, curious grin on Kaela's face, barely peeking through the door. She turned and darted to the front of the ship just as the door closed behind her.
 
 ---
 ## A Hazy Arrival
@@ -181,7 +182,9 @@ Ylva closes the door behind her, and faced Kaela alone for the first time. After
 
 A quick "Thank you, Kaela!" punctuated their steps onto the fisher's docks of Old Almasha as the Line Six peeled away, eager to not overstay their welcome. The wood beneath their feet felt soft as the rain began to fall, and Kaela's offer hung in the air around them. A way to escape the city, a way to see more of the world, or maybe a way to get into more trouble.
 
-#redo The group quickly navigated the hazy streets through the storm, returning to The Gallery within the hour. Noro quickly got Ewan their money, and the crew took up a booth at Layla's despite their injuries, as they had much to discuss. Between Kaela's offer, the journal and cipher they discovered in the temple, and how to go about getting a map of the Nyrian sea, the drinks were just a means to figure out how to go forward.
+The group quickly navigated the hazy streets through the storm, returning to The Gallery within the hour. Noro quickly got Ewan his money, and took up a booth at Layla's, wincing slightly as the booth pressed against fresh bruises. Rain tapped against the large windows overlooking the canal, the only noise to muffle their conversation.
+
+Into the later hours of the night, the group recounted their adventurers, and considered Kaela's proposal. Noro, Ylva, and Tiyeme were eager to join the Line Six, while Ewan and Demiel had their own reservations. One by one, they returned to their rooms for the night, some with conviction at leaving this damn city, and others more unsure.
 
 
 
