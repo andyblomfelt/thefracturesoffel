@@ -1,5 +1,5 @@
 > **Session 14 - September 21st, 2025 (continued)**
-## Unsettling Wards
+## Unsettling Wards #todo
 The cliffs slowly rose higher and higher as the Line Six pressed further along the coast, until almost three hundred feet of dark rock jutted into the Azure Pass. Bundles of light from small villages dotted the cliff's edge, leading upward to a lighthouse painted a deep blue. Unlike infrastructure in the Almashan Port, however, it pulsed softly with an arcane glow, 
 
 The first hints of civilization were heard more than seen. Layers of mechanical ratcheting noises echoed across cliff faces, cutting through the familiar lap of waves against the ship. Before long, the Line Six rounded the horn of rock and came face to face with the city of Istali.
@@ -91,13 +91,11 @@ Their breathing immediately stopped to avoid alerting whatever was inside. Noro 
 ## Precautions
 Out of nowhere, the familiar voice of Tiyeme cut through their conversation. "Care to explain what happened in there?"
 
-"FUCK, have you been there the whole time??" Noro jumped back in shock
+"FUCK, have you been there the whole time??" Noro jumped back in shock. Ylva, on the other hand didn't miss a beat. 
 
-Ylva didn't miss a beat. "Oh that body? He jumped in."
+"Oh that body? He jumped in."
 
-Tiyeme stared at her, unconvinced, before Noro broke the silence with a chuckle.
-
-"And we, helped him stay there."
+Tiyeme stared at her, unconvinced, before Noro broke the silence with a chuckle. "And we, helped him stay there."
 
 Tiyeme refused to react again, infuriatingly unreadable. Only after a moment did he interrupt their explanation, "What was his name?"
 
@@ -129,29 +127,31 @@ Noro caught it. “It is nothing, but I would take kindly to a heal if you can.�
 
 “…that’s not what I saw,” Tiyeme muttered under his breath as the healing pulse settled through Noro’s body. He closed his eyes in concentration.
 
-Noro shot back, “I'm sorry, do *you* want to go deal with some fuck-off spiders? I do not think so. Bad hunch that there was Mirrathine in there.” Tiyeme was silent as he focused on magic.
+Noro shot back, “I'm sorry, do *you* want to go deal with some fuck-off spiders? I do not think so. Bad hunch that there was Mirrathine in there.” 
 
-"That thing definitely knew we were in there." Ylva replied
+Tiyeme was silent as he focused on magic.
 
-"Yes, and good on us for staying out of sight." She extended a fist out to Ylva, who gave a sly grin and bumped hers back while Tiyeme finished his magic.
+"That thing definitely knew we were in there." Ylva replied.
+
+"Yes, and good on us for staying out of sight." She extended a fist out to Ylva, who gave a sly grin and bumped hers back while Tiyeme finished put his book away.
 
 “Thank you, Tiyeme. We should go,” Noro added, turning away. “I wouldn’t be surprised if Kingsley is waiting.”
 
 “I’ll follow you,” Tiyeme replied, finally falling in step. “I would like a drink.”
 
-The three continued their careful recounting of the events of the night, unwilling to dilvulge too much to anyone. The lift took them back up to the Shelf, where Noro softly stepped behind the other two, looking for a moment to adjust the bulky item in her bag. She shifted it slightly, and it replied with a soft *hum*, unnoticeable to anyone else on the lift. For Noro, however, it was just enough to remind her of the potential consequences to their "bad hunch".
+The three continued their careful recounting of the events of the night, unwilling to divulge too much to anyone. The lift took them back up to the Shelf, where Noro softly stepped behind the other two, finding a moment to adjust the bulky item in her bag. She shifted it slightly, and it replied with a soft *hum*, unnoticeable to anyone else on the lift. For Noro, however, it was just enough to remind her of the potential consequences to their "bad hunch".
 
 ---
 
 Having returned from gathering supplies, Ewan strode back into the Hollow Ember where he expected to meet the rest of the group before departing north. The red light outside the door flickered slightly as night began to gently fall.
 
-Inside, however, was an unfamiliar energy. Where once there were only a few defeated patrons, there was now a small spark of life. Lance joyously sang of great adventurers along the Azure coast from the days before the Cataclysm on a makeshift stage, and while the bar couldn't quite match his energy, the Hollow Ember was half full. Soft smiles almost begrudgingly colored the faces of the guests. A sight not seen in months, maybe even years, according to the stories they'd heard.
+Inside, however, was an unfamiliar energy. Where once there were only a few defeated patrons, there was now a small spark of life. Lance joyously sang of great adventurers along the Azure Coast from the days before the Cataclysm on a makeshift stage, and while the bar couldn't quite match his energy, the Hollow Ember was half full. Soft smiles almost begrudgingly colored the faces of the guests. A sight not seen in months, maybe even years, according to the stories they'd heard.
 
 Keeping the buzz rolling, Ewan grabbed a drink and sat down at one of the empty booths. As he shifted in the worn leather seat and got comfortable, the first few notes of a familiar Calbraithen drinking song filled the pub. He eyed Lance, who looked up briefly and gave him a wink through frustratingly voluminous blonde hair. 
 
 For a moment, Ewan felt a little more at home. He softly hummed along, looking down into his half-full glass. 
 
-As applause sheepishly filled the pub, the rest of the group arrived. Following close behind was Kingsley, sporting a larger pack and a thick, green scarf. Pleasantries and more rounds accompanied them to Ewan's booth.
+As applause sheepishly filled the pub, the rest of the group arrived. Following close behind was Kingsley, sporting a larger pack and a thick, green scarf. Pleasantries and another round accompanied them to Ewan's booth.
 
 Ylva eventually interrupted the banter, following Ewan and Kingsley's eyes to Noro's injuries. "So, we don't have to leave tonight, do we?"
 
@@ -161,7 +161,7 @@ Ylva eventually interrupted the banter, following Ewan and Kingsley's eyes to No
 
 A brief silence was interrupted by glasses clinking a few booths over
 
-"But," Kingsley continued, "it's safer to travel together. If you all need to wait, I'm happy to do so. I can't remember the last time I took the quarry road with company."
+"But," Kingsley continued, "it's safer to travel together. If you all need to wait, I'm happy to do so. I can't remember the last time I took to the quarry road with company."
 
 Having adjusted their plans, finished their drinks, and enjoyed the last of Lance's performance, Kingsley led them towards her old neighborhood, where she got them a deal on rooms for the night. The walk was less than efficient, Tiyeme grabbing Ewan occasionally before he ran into one of the various streetlights giving off a faint blue glow.
 
@@ -174,7 +174,39 @@ Kingsley pointed out a building a block down from the small inn they were callin
 A few gold later, the group settled in for the night. The winds mixed with the soft hum of streetlights, occasionally interrupted by the sounds of footsteps through puddles of water from pedestrians. The promise of spirits that were "worse at night" kept most of them on alert throughout the night. Rest was hard to find.
 
 ---
-## The Spirits of Istali
-- During a long rest, Tiyeme and Lance see a blue spectral hand coming above them, before it flies downwards. Tiyeme dodges, and Lance gets struck by a feeling of cold.,
-- Lance sees a bright blue flash out the window. Going to look out, he sees hundreds of spectres going all around, in the ground, in buildings, etc.,
-- Tiyeme, instead, sees a small child holding one of the Masks on a stick, back into an alleyway.
+## The Spirits of Istali #todo
+
+Between trains, lively taverns, and the sounds of waves lapping against a boat, quiet was perhaps the strangest background noise of the last few weeks. Lance especially, not needing sleep in the traditional sense, gave a light sigh to fill the room that he and Tiyeme shared. This preacher, whoever he was, was certainly more accustomed to a "traditional" meditation. 
+
+He popped open a eye while laying in bed to see if Tiyeme's position had changed. It hadn't. It was almost unsettling, as if he were communing with something no one else could see. Lance sighed once more, got up from the bed and looked out the window into the street below.
+
+Blue streetlights with the occasional red accent above a doorway diffused in the damp air. It must have been especially late, as even the occasional steps through puddles were gone by this hour. He studied the skyline, studied the street. It looked to some of the older quarters of Leithe.
+
+He blinked, and suddenly he met someone's eyes.
+
+A small child, holding one of the warding masks, slowly backed into the alleyway as if holding something back. Lance jumped back a step, stunned that he hadn't noticed her before. She stared at Lance through the window, though he was sure he was too far away for her to see him. 
+
+He turned towards the other side of the room. "Tiyeme, do you see—"
+
+Before he could finish, he felt the temperature drop significantly, and just caught a glimpse of Tiyeme's glowing hand disepersing a strange blue energy near the wall behind him. He jumped to his feet and reached for Lance, a rare look of concern on his face. 
+
+Before Lance could react, his heart felt like it iced over. 
+
+He was suddenly pulled backwards by god knows what, and with a loud *SLAM*, was pulled into the wooden wall behind him. The room shook briefly from the impact, disturbed dust falling from the ceiling.
+
+As soon as the feeling came, it was gone. Lance dropped to the ground, head ringing from the impact.
+
+"Are you ok?" Tiyeme's calm voice barely penetrated his daze. Before he could muster the strength to respond, he was interrupted:
+
+"LANCE! Answer me!"
+
+Lance gave a sign and a reluctant thumbs up, grabbing his head in brief pain as his vision was filled with light from Tiyeme's hands. He felt his body regain it's composure ever so slightly.
+
+"What was that?" Lance finally asked out loud with a grunt as he stood up.
+
+"I don't know." Back to his chilling calm.
+
+Lance begrudgingly stood up, still gripping his head in pain. 
+
+- Lance turns and looks outside to see an "army" of spirits
+- Brief conversation between them before going back to bed

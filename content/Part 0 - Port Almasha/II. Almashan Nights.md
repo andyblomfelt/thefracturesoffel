@@ -1,0 +1,41 @@
+- Ylva discusses the existence of dragons with Noro and Trusto.
+- Ylva believes the arcane crystals/runes might separate them from the dragon, and return their lives to their own.
+- Noro informs Trusto that the group was attacked by the Red Maw. Trusto asks Ewen if he was with anyone else.
+- Ewan informs Trusto that he knows the Red Maw "for a time"
+- Trusto accuses Ewen of attempting to assist the attack on the train, which is disproven by Noro's accounts.
+- Red Maw possibly leading a group known as The Scars of Calbrathe. Trying to reinstate the rules of old into Port Almasha.
+- Mai looks into the networks of where the Blink Mages found the stardust.
+- Demiel leaves his sample of stardust for them to examine.
+- Ylva examines the compass, and sees the crystal is somehow powering the compass pointer thing. (see reference channel for rune on the gem)
+- Hjordis recognizes the language of the rune, but can't quite remember what it says. Suggests they find more of the language to remind them.
+- Port Almasha was very recently occupied by Calbraithe before the Cataclysm (10 years prior).
+- Kaela bringing Sorchan to make the deal with Ewan.
+- Tiyeme catches Kaela being mentioned, and recognizes her as being brought up to Tiyeme before his journey to the Port.
+- Tiyeme shares he has heard rumors that Kaela could be a Saint.
+- Ewan and Tiyeme agree to load up and go to the trade deal together.
+- Everyone has their anti-magic bands temporarily disabled via a nice bath, compliments of Halur
+- Tiyeme makes Demiel sign a contract to return the gauntlet in 24 hours, under the promise not to use it's powers in city limits.
+- Ewan returns his cart to the custom's area.
+- Everyone else goes to Layla's for the evening.
+- Ewan overhears 2 off-duty guards discussing a dragon. Assumes they are talking about Ylva, also mentioned someone named Ziri. Say they need to let Ziri know about Ylva and dragon.
+- At Layla's, White suited man goes into room 102
+- Everyone sits down and has dinner and drinks.
+- White suited man comes back out, and while walking pays particular attention to the group's table.
+- Demiel retires early to go do some studying.
+- The gauntlet appears to be heavily modifiable, and Demiel looks into implementing it into his own arm. Tries to figure out how it uses the red energy Maw used.
+- Noro and Ylva kill it on the dance floor.
+- Tiyeme goes upstairs to his room, while checking to see where the white suited man had gone.
+- White suited man reveals his name to Tiyeme as Mateo.
+- Those in the Arcanum do not have to wear the anti magic bands.
+- Mateo is a "consultant" for the Arcanum.
+- Mateo invites Tiyeme to the Counsel of the Arcanum, hinting that he wants Ylva to join as well.
+- Mae knows Mateo, calls him a "coward, piece of shit". Warns not to get involved with him.
+- Arguments over whether or not to go to the Arcanum tomorrow.
+- **The gang takes a long rest**
+- Tiyeme casts "Blessing of the Forge" on Ewan's hammer, increasing it's damage by +1.
+- Tiyeme felt sleep overtake him, comes through a dream of The Owl in distress.
+
+*Ewan is woken up by Tiyeme's shock of waking, is informed of the Dream, and passes out. Gets tucked in.
+
+- Man pulls a token of the Scars of Calbrathe out of a robe in a field.
+- The figure takes a look at the token, and puts it in his pocket.

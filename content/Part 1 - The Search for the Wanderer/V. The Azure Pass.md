@@ -17,6 +17,7 @@ A faint whistling sound from the city caught her attention, thanks to the height
 - Everyone meets on the balcony. Ylva notices a coded message in the lighthouse at the point ahead of Nargess. Noro decodes it from Thieve's Cant, saying there's an unnatural storm ahead and to use caution.
 - Group eventually decides to move at a more stealthy pace from then on, to avoid whatever is coming.
 
+---
 ## Suspicious Herds
 
 *(12th of Hostar, 721 A.C.)*
@@ -30,7 +31,8 @@ A faint whistling sound from the city caught her attention, thanks to the height
 - Ylva dresses the carcasses of the ones that hit the ship effortlessly, and serves up dinner with it.
 - Ewan checks on the engine, and while it's still intact, their fuel reserves will just barely get them to Istali.
 
-## Tryf of the Water
+---
+## Tryf of the Water #todo
 
 *(13th of Hostar, 721 A.C.)*
 

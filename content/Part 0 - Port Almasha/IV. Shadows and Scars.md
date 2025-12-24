@@ -285,7 +285,7 @@ Kaela excitedly grabbed the bag, bringing it up to her nose and taking a long sn
 
 "I thought we were headed to Nen'darei." Ewan spoke bluntly, with purpose.
 
-"I mean, we are, but I could only procure so much fuel on short notice. Nargess was a bit of a mess, but I managed to get enough to get us to Istali, a stopover town at the edge of the Pass. I know a guy there that we can get the rest of what we'll need for crossing the Windfront Bay."
+"I mean, we are, but I could only procure so much fuel on short notice. Nargess was a bit of a mess, but I managed to get enough to get us to a stopover town at the edge of the Pass. I know a guy there that we can get the rest of what we'll need for crossing the Windfront Bay."
 
 She pointed to it's location on the map. "That will most certainly be the difficult part of our journey. We'll need to be prepared."
 
