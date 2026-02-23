@@ -21,7 +21,7 @@
 
 Ylva slipped out of the galley after losing her ante *again*, leaving the rest of them to the game. Their uncanny laughter and occasional clinking of glasses despite the crazy events of the last day muffled away with a *thud* of the heavy wooden door up to the flybridge, giving way to the open air on a newly repaired balcony.
 
-Small hairs missed by her braid annoyingly flew into her face. Soft winds swirled as the Line Six carved a gentle path through the water, closer to the coastline than they had been for days. A charcoal smudge against a deep blue sky, its edge was trimmed in red-tinted moonlight from the crimson grasses, oddly otherworldly. She had read a bit about the red flora from the Atlas in the galley, and heard about it from travelers in Isseme, but seeing it was something else entirely. Alien, but beautiful nonetheless.
+Small hairs missed by her braid annoyingly flew into her face thanks to the swirling soft winds. The Line Six carved a gentle path through the water, closer to the coastline than they had been for days. A charcoal smudge against a deep blue sky, its edge was trimmed in red-tinted moonlight from the crimson grasses, oddly otherworldly. She had read a bit about the red flora from the Atlas in the galley, and heard about it from travelers in Isseme, but seeing it was something else entirely. Alien, but beautiful nonetheless.
 
 She leaned her forearms against the metal rail. It was cold at first, but after a while it faded as her body grew accustomed to it. The wake of the ship was frothy and mucked the waters she would normally be able to see into further thanks to her gift of draconic sight, but even still, a couple small jellyfish barely caught the moonlight and pulsed gently away from the ship. They seemed unconcerned, patiently existing for no purpose other than to exist.
 
@@ -35,7 +35,7 @@ Though there was no response, she felt the presence of Hjordis peer over her sho
 
 "Ok... do you remember that dream place? Were you there for that?" She continued.
 
-*I remember about as well as you do*. The voice of Hjordis pierced through her thoughts, ancient and weary, but still distinctly matched the dialect of her people back in Arrengri. It was strangely comforting, even if Hjordis was insufferable sometimes. 
+*I remember about as well as you do*. The voice of Hjordis pierced through her thoughts, ancient and weary, but still distinctly matched the dialect of her people back in Arrengri. It was strangely comforting, even if she was insufferable sometimes. 
 
 "That person knew that you and I were both in the body together. That's never happened before."
 
